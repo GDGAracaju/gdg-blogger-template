@@ -1501,6 +1501,8 @@ display:none;
 		    </div> 	
 				
 			<div class="clear"></div>
+
+			<b:include data='post' name='comment_picker'/>
 			
 </b:includable>
  

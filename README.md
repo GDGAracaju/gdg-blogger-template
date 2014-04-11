@@ -30,4 +30,4 @@ Under *Templates* upload the *gdg-blogger-template.xml* file and Preview
 
 Remember to turn on [*Google+ Comments*](https://support.google.com/blogger/answer/2677294) 
 
-You are not good to go.
+You are now good to go.

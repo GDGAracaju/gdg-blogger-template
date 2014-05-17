@@ -1,7 +1,7 @@
-gdg-blogger-template
+GDG-Blogger-Template
 ====================
 
-Blogger template imported from https://code.google.com/p/gdg-blogger-template/
+Forked from https://code.google.com/p/gdg-blogger-template/
 
 --
 
@@ -9,7 +9,7 @@ Blogger Template for Google Developer Groups based on Twitter Bootstrap and glad
 
 Built for: Worldwide GDG Community
 
-See it in action @ GDG Kathmandu's Blog [@ GDG Kimathi University's Blog](http://gdgkimathiuniversity.blogspot.com)
+See it in action @ GDG Aracaju's Blog [@ GDGAracaju](http://gdgaracaju.com.br)
 
 Liked it ? Bookmark the project (Star it). Share it with hashtag #gdg #blogger
 

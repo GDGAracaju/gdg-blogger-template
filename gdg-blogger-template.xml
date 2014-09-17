@@ -1337,7 +1337,7 @@ display:none;
 							
 							<div class="span1">
 								<a expr:href='data:blog.homepageUrl'>
-									<img src="https://googledrive.com/host/0B4ejkXUhW2bRLVh2eHdsbnk5Wm8/gdg-logo.png" />
+									<img src="https://raw.githubusercontent.com/GDGAracaju/gdg-blogger-template/master/img/gdg-program-icon.png" width="50px"/>
 								</a>					
 							</div>				
 				
